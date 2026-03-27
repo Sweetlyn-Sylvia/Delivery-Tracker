@@ -1,0 +1,6 @@
+@ShipzoBackend_HostAddress = http://localhost:5234
+
+GET {{ShipzoBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

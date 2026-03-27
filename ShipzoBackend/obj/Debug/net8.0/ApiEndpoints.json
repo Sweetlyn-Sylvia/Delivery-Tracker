@@ -1,0 +1,421 @@
+[
+  {
+    "ContainingType": "ShipzoBackend.Controllers.AgentController",
+    "Method": "GetAll",
+    "RelativePath": "api/Agent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.AgentController",
+    "Method": "GetById",
+    "RelativePath": "api/Agent/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.AgentController",
+    "Method": "Delete",
+    "RelativePath": "api/Agent/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.AgentController",
+    "Method": "GetDashboardData",
+    "RelativePath": "api/Agent/dashboard/{agentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agentId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.AgentController",
+    "Method": "Login",
+    "RelativePath": "api/Agent/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShipzoBackend.Models.AgentLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.AgentController",
+    "Method": "GetAgentPerformance",
+    "RelativePath": "api/Agent/performance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.AgentController",
+    "Method": "Register",
+    "RelativePath": "api/Agent/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShipzoBackend.Models.RegisterAgent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "GetParcelById",
+    "RelativePath": "api/Parcel/{parcelId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parcelId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "GetAllParcels",
+    "RelativePath": "api/Parcel/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "CreateParcel",
+    "RelativePath": "api/Parcel/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parcel",
+        "Type": "ShipzoBackend.Models.Parcel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "FilterParcels",
+    "RelativePath": "api/Parcel/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "agentId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "date",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "GetParcelsByAgent",
+    "RelativePath": "api/Parcel/parcel-agent/{agentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agentId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "GetPendingParcels",
+    "RelativePath": "api/Parcel/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "TrackParcel",
+    "RelativePath": "api/Parcel/track/{parcelId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parcelId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "UpdateParcelLocation",
+    "RelativePath": "api/Parcel/update-location/{parcelId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parcelId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ShipzoBackend.Controllers.ParcelController\u002BLocationUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ParcelController",
+    "Method": "UpdateParcelStatus",
+    "RelativePath": "api/Parcel/update-status/{parcelId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parcelId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ShipzoBackend.Controllers.ParcelController\u002BStatusUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ReportsController",
+    "Method": "AgentReport",
+    "RelativePath": "api/Reports/agent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agentId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ReportsController",
+    "Method": "DailyReport",
+    "RelativePath": "api/Reports/daily",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ReportsController",
+    "Method": "DeliveredReport",
+    "RelativePath": "api/Reports/delivered",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ReportsController",
+    "Method": "PendingReport",
+    "RelativePath": "api/Reports/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.ReportsController",
+    "Method": "RangeReport",
+    "RelativePath": "api/Reports/range",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.SupervisorController",
+    "Method": "GetProfile",
+    "RelativePath": "api/Supervisor/{supervisorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supervisorId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.SupervisorController",
+    "Method": "AssignAgent",
+    "RelativePath": "api/Supervisor/assign-agent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShipzoBackend.Models.AssignAgent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.SupervisorController",
+    "Method": "DashboardSummary",
+    "RelativePath": "api/Supervisor/dashboard-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.SupervisorController",
+    "Method": "Login",
+    "RelativePath": "api/Supervisor/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "ShipzoBackend.Models.SupervisorLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.SupervisorController",
+    "Method": "GetNotifications",
+    "RelativePath": "api/Supervisor/notifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.SupervisorController",
+    "Method": "SendReminder",
+    "RelativePath": "api/Supervisor/send-reminder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShipzoBackend.Models.AssignAgent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShipzoBackend.Controllers.SupervisorController",
+    "Method": "UpdateProfile",
+    "RelativePath": "api/Supervisor/update-profile",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ShipzoBackend.Models.ChangePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

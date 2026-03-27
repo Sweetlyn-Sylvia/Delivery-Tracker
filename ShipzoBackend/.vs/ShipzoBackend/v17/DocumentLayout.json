@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\businesslayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:businesslayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\supervisorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\supervisorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\reportcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\reportcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\parceldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\parceldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\trackparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\trackparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\notificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\notificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\agentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\agentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\controllers\\parcelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:controllers\\parcelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\businesslayer\\supervisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:businesslayer\\supervisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\businesslayer\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:businesslayer\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\businesslayer\\parcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:businesslayer\\parcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\businesslayer\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:businesslayer\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\controllers\\supervisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:controllers\\supervisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\registeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\registeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\assignagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\assignagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\models\\dashboardsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:models\\dashboardsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|c:\\users\\sweet\\onedrive\\desktop\\novacis training\\shipzo\\shipzobackend\\shipzobackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C8DB0981-4054-4365-ADC0-B76171B89F9C}|ShipzoBackend.csproj|solutionrelative:shipzobackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\NotificationResponse.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationResponse.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\NotificationResponse.cs",
+              "RelativeToolTip": "Models\\NotificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:28:06.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parcel.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\Parcel.cs",
+              "RelativeDocumentMoniker": "Models\\Parcel.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\Parcel.cs",
+              "RelativeToolTip": "Models\\Parcel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:44:02.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParcelDetails.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\ParcelDetails.cs",
+              "RelativeDocumentMoniker": "Models\\ParcelDetails.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\ParcelDetails.cs",
+              "RelativeToolTip": "Models\\ParcelDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:38:01.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportCreation.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\ReportCreation.cs",
+              "RelativeDocumentMoniker": "Models\\ReportCreation.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\ReportCreation.cs",
+              "RelativeToolTip": "Models\\ReportCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:41:22.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\Supervisor.cs",
+              "RelativeDocumentMoniker": "Models\\Supervisor.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\Supervisor.cs",
+              "RelativeToolTip": "Models\\Supervisor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:25:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupervisorLogin.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\SupervisorLogin.cs",
+              "RelativeDocumentMoniker": "Models\\SupervisorLogin.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\SupervisorLogin.cs",
+              "RelativeToolTip": "Models\\SupervisorLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:55:26.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\Database.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Database.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\Database.cs",
+              "RelativeToolTip": "BusinessLayer\\Database.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:00:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgentLogin.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\AgentLogin.cs",
+              "RelativeDocumentMoniker": "Models\\AgentLogin.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\AgentLogin.cs",
+              "RelativeToolTip": "Models\\AgentLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:27:19.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrackParcel.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\TrackParcel.cs",
+              "RelativeDocumentMoniker": "Models\\TrackParcel.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\TrackParcel.cs",
+              "RelativeToolTip": "Models\\TrackParcel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:37:17.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParcelController.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\ParcelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParcelController.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\ParcelController.cs",
+              "RelativeToolTip": "Controllers\\ParcelController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:46:34.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "Controllers\\AgentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:44:02.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:52:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupervisorService.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\SupervisorService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\SupervisorService.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\SupervisorService.cs",
+              "RelativeToolTip": "BusinessLayer\\SupervisorService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswJkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:29:10.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\ReportService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ReportService.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\ReportService.cs",
+              "RelativeToolTip": "BusinessLayer\\ReportService.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAowMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:36:30.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParcelService.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\ParcelService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ParcelService.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\ParcelService.cs",
+              "RelativeToolTip": "BusinessLayer\\ParcelService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwMsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:46:45.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgentService.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\AgentService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\AgentService.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\BusinessLayer\\AgentService.cs",
+              "RelativeToolTip": "BusinessLayer\\AgentService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAwwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:18:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T11:53:42.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:25:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SupervisorController.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\SupervisorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SupervisorController.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\SupervisorController.cs",
+              "RelativeToolTip": "Controllers\\SupervisorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:29:49.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:37:42.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterAgent.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\RegisterAgent.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterAgent.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\RegisterAgent.cs",
+              "RelativeToolTip": "Models\\RegisterAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:43:35.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Models\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "Models\\ChangePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:26:08.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\Agent.cs",
+              "RelativeDocumentMoniker": "Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\Agent.cs",
+              "RelativeToolTip": "Models\\Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:38:39.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssignAgent.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\AssignAgent.cs",
+              "RelativeDocumentMoniker": "Models\\AssignAgent.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\AssignAgent.cs",
+              "RelativeToolTip": "Models\\AssignAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:28:38.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashboardSummary.cs",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\DashboardSummary.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardSummary.cs",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\Models\\DashboardSummary.cs",
+              "RelativeToolTip": "Models\\DashboardSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:56:17.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShipzoBackend",
+              "DocumentMoniker": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\ShipzoBackend.csproj",
+              "RelativeDocumentMoniker": "ShipzoBackend.csproj",
+              "ToolTip": "C:\\Users\\sweet\\OneDrive\\Desktop\\Novacis training\\Shipzo\\ShipzoBackend\\ShipzoBackend.csproj",
+              "RelativeToolTip": "ShipzoBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T07:25:29.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

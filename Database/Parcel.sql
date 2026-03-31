@@ -293,16 +293,12 @@ END
 select * from Agents
 SELECT FastDelivery FROM Parcels
 
-EXEC sp_FilterParcels 
-@Status = NULL,
-@AgentID = 'AGT73663B',
-@Date = NULL
 
 CREATE PROCEDURE sp_GetParcelsByAgentId
 @AgentId VARCHAR(50)
 AS
 BEGIN
-    SELECT *
-    FROM Parcels
-    WHERE AgentId = @AgentId
+SELECT *
+FROM Parcels
+WHERE AgentId = @AgentId
 END

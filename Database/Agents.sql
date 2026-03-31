@@ -117,45 +117,45 @@ begin try
 if (@Email IS NULL OR TRIM(@Email) = '')
 and (@Password IS NULL OR TRIM(@Password) = '')
 begin
-    select 
-        NULL AS AgentId,
-        NULL AS AgentName,
-        'Enter the email and password' AS Message
-    return
+select 
+NULL AS AgentId,
+NULL AS AgentName,
+'Enter the email and password' AS Message
+return
 end
 
 declare @AgentId NVARCHAR(20)
 declare @AgentName NVARCHAR(100)
 
 select 
-    @AgentId = AgentId,
-    @AgentName = AgentName
+@AgentId = AgentId,
+@AgentName = AgentName
 from Agents
 where 
-    Email = @Email
+Email = @Email
 AND Password = HASHBYTES('SHA2_256', CONVERT(NVARCHAR(100), @Password))
 AND IsActive = 1
 
 if @AgentId IS NOT NULL
 begin
 select
-        @AgentId AS AgentId,
-        @AgentName AS AgentName,
-        'Agent logged in successfully' AS Message
+@AgentId AS AgentId,
+@AgentName AS AgentName,
+'Agent logged in successfully' AS Message
 end
 else
 begin
-    select
-        NULL AS AgentId,
-        NULL AS AgentName,
-        'Incorrect email or password' AS Message
+select
+NULL AS AgentId,
+NULL AS AgentName,
+'Incorrect email or password' AS Message
 end
 end try
 begin catch
 select
-        NULL AS AgentId,
-        NULL AS AgentName,
-        'Login failed' AS Message
+NULL AS AgentId,
+NULL AS AgentName,
+'Login failed' AS Message
 end catch
 end
 

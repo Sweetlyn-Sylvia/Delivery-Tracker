@@ -294,6 +294,8 @@ select * from Agents
 SELECT FastDelivery FROM Parcels
 
 
+--Parcel by Agent Id
+
 CREATE PROCEDURE sp_GetParcelsByAgentId
 @AgentId VARCHAR(50)
 AS

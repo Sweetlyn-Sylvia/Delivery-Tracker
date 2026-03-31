@@ -6,7 +6,7 @@ Phone nvarchar(15) not null,
 Password nvarchar(50) not null
 )
 
-insert into Supervisor values ('SUP1001','Sweetlyn','sweetlynsylvia@gmail.com','8903300300','Sweetlyn#2744')
+
 
 select*from Supervisor
 
@@ -397,11 +397,7 @@ end
 
 select * from Agents
 
-alter table Supervisor
-add PasswordHash varbinary(256)
 
-UPDATE Supervisor
-SET PasswordHash = HASHBYTES('SHA2_256', CONVERT(NVARCHAR(50), Password))
 
 
 select * from Supervisor

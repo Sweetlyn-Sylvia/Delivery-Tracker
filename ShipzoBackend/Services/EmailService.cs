@@ -10,7 +10,7 @@ namespace ShipzoBackend.Services
             var smtp = new SmtpClient("smtp.gmail.com")
             {
                 Port = 587,
-                Credentials = new NetworkCredential("liveeasynotification@gmail.com", "alaf qexf snhw ddlm"),
+                Credentials = new NetworkCredential("liveeasynotification@gmail.com", "app-password"),
                 EnableSsl = true
             };
 
